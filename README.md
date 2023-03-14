@@ -22,8 +22,8 @@ Hello there, I'm Dacian Stroia, also known as Zademn in the online world. I'm an
 - [KMeans in Rust](https://github.com/zademn/big-data-analysis)
 - [Server](https://github.com/DeluxeOwl/findmefindyou-server) and [Client](https://github.com/DeluxeOwl/findmefindyou-client) - phone app that allows you to track friend locations in real time (team of 2 people). 
 - [Healthcheck app](https://github.com/zademn/IC2021) - An app that allows you to do healthchecks for different devices (team of 2 people). 
-- [AtomC-compiler](https://github.com/zademn/AtomC-compiler) - A compiler for a smaller C.
-
+- [AtomC-compiler](https://github.com/zademn/AtomC-compiler) - A compiler for a C subset.
+- [omnet++ schedulers](https://github.com/zademn/omnetpp-schedulers) - Some schedulers implemented in omnet++.  
 <!--
 **zademn/zademn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
