@@ -20,6 +20,7 @@ Hello there, I'm Dacian Stroia, also known as Zademn in the online world. I'm an
 ### University projects and notes :school:
 - [PUGCN paper reimplemented in Pytorch](https://github.com/zademn/PU-GCN-pytorch) + some extra models I tried out.
 - [KMeans in Rust](https://github.com/zademn/big-data-analysis)
+- [FBNet](https://github.com/zademn/fbnet-pyg) reimplemented in Pytorch Geometric as practice. 
 - [Server](https://github.com/DeluxeOwl/findmefindyou-server) and [Client](https://github.com/DeluxeOwl/findmefindyou-client) - phone app that allows you to track friend locations in real time (team of 2 people). 
 - [Healthcheck app](https://github.com/zademn/IC2021) - An app that allows you to do healthchecks for different devices (team of 2 people). 
 - [AtomC-compiler](https://github.com/zademn/AtomC-compiler) - A compiler for a C subset.
