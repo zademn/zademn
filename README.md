@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zademn&theme=tokyonight&hide=jupyter%20notebook&langs_count=4" />
+  <img align="center" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zademn&theme=tokyonight&hide=jupyter%20notebook&langs_count=5" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height = "200px" src="https://github-readme-stats.vercel.app/api?username=Zademn&show_icons=true&theme=tokyonight" />
