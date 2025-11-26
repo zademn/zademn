@@ -10,7 +10,7 @@
 Hello there, I'm Dacian Stroia, also known as Zademn in the online world. I'm an applied researcher in ML and cryptography. I like GNNs, FHE and Rust.
 
 ### Projects :package:
-- [facto-rs](https://github.com/zademn/fourq-rust) - Small factorization library in Rust
+- [facto-rs](https://github.com/zademn/facto-rs) - Small factorization library in Rust
 - [A ML monitoring PoC](https://github.com/zademn/mnist-mlops-learning)
 - Small Rust projects: [Game of life in Rust](https://github.com/zademn/game-of-life-rust), [Ray tracing in one weekend](https://github.com/zademn/rust-rayt-weekend), [AoC2021](https://github.com/zademn/advent-of-rust-2021), [CryptoPals - partially](https://github.com/zademn/CryptoPalsRust)
 - Small Zig projects: [Ray tracing in one weekend](https://github.com/zademn/rayt-weekeend-zig)
